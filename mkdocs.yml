@@ -76,6 +76,7 @@ nav:
     - Installation: getting-started/installation.md
     - CLI: getting-started/run-cli.md
   - Core:
+    - CoreGeth: core/core-geth.md
     - All tools: core/alltools.md
     - EVMC: core/evmc.md
   - APIs:
